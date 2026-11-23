@@ -1,4 +1,4 @@
-![Sreerag K B — Enterprise systems developer and AI builder](assets/profile-banner.svg)
+![Sreerag K B — Enterprise systems developer and AI builder](assets/profile-banner.png)
 
 I'm a Computer Science & Engineering undergraduate. At BPCL Kochi Refinery, I led a six-person team building software to track plant maintenance. I also build tools that help people review financial records and work with computer vision.
 
